@@ -20,6 +20,7 @@ This project implements a Huffman Coding Tree, an efficient data compression alg
 ### **Prerequisites**  
 To run the code on Google Colab, no software installations are required. 
 ## **Installing**  
+git link : https://github.com/reddy162002/HUFFMAN-CODING-TREE/edit/main/README.md
 1. **Google Colab:**  
    - No installation needed. Use the provided link to access the program.
 2. **Local Setup (Optional):**  
